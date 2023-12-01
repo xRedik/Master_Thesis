@@ -35,7 +35,7 @@ The `code` folder contains the implementation of the models. It consists of 3 fo
 
 ## Data
 
-The `data` folder contains the subset of dataset used for training and testing the CNN model. It includes labeled star images and corresponding attitude information. The data files are organized and formatted appropriately for the CNN training process.
+The `dataset` folder contains the subset of dataset used for training and testing the CNN model. It includes labeled star images and corresponding attitude information. The data files are organized and formatted appropriately for the CNN training process.
 
 ## Papers
 

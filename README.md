@@ -1,6 +1,6 @@
 # CNN based star tracker for high-precision spacecraft navigation
 
-This repository contains the research paper, data, presentations, reviews, and reference papers for the proposal of using Convolutional Neural Networks (CNN) in the star tracker sensor of a spacecraft. The star tracker is a critical component for spacecraft attitude determination and navigation.
+This repository contains the research paper, dataset, presentations, reviews, and reference papers for the proposal of using Convolutional Neural Networks (CNN) in the star tracker sensor of a spacecraft. The star tracker is a critical component for spacecraft attitude determination and navigation.
 
 ## Table of Contents
 

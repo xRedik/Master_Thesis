@@ -31,7 +31,7 @@ This repository serves as a comprehensive resource for the research conducted, p
 ```
 ## Code
 
-The `code` folder contains the implementation of the models. It consists of 3 folder, and each folder has the implementation and saved model for every week. It also has 1 extra folder that contains the code for data generation which was used to collect the simulated images through the Stellarium program.
+The `code` folder contains the implementation of the models. It consists of 2 folder. The model folder consists of the model that was used to create and train the model. The dataset script generator consists of the script that was usec to generate input images, and corresping positions for the input image (target).
 
 ## Dataset
 

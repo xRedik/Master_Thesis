@@ -22,7 +22,7 @@ This repository serves as a comprehensive resource for the research conducted, p
 ```bash
 ├── code/
 │   └── [Models that implemented for every work and script that was used to collect simulated data]
-├── data/
+├── dataset/
 │   └── [Simulated subset of dataset used for training and testing the CNN model]
 ├── papers/
 │   └── [Reference papers for the research]

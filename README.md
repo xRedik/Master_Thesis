@@ -7,7 +7,7 @@ This repository contains the research paper, data, presentations, reviews, and r
 - [Introduction](#introduction)
 - [Repository Structure](#repository-structure)
 - [Code](#code)
-- [Data](#data)
+- [Dataset](#dataset)
 - [Papers](#papers)
 - [Reports](#reports)
 

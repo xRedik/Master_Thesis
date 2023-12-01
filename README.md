@@ -33,7 +33,7 @@ This repository serves as a comprehensive resource for the research conducted, p
 
 The `code` folder contains the implementation of the models. It consists of 3 folder, and each folder has the implementation and saved model for every week. It also has 1 extra folder that contains the code for data generation which was used to collect the simulated images through the Stellarium program.
 
-## Data
+## Dataset
 
 The `dataset` folder contains the subset of dataset used for training and testing the CNN model. It includes labeled star images and corresponding attitude information. The data files are organized and formatted appropriately for the CNN training process.
 

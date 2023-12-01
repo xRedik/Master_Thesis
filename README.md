@@ -23,7 +23,7 @@ This repository serves as a comprehensive resource for the research conducted, p
 ├── code/
 │   └── [Models that implemented for every work and script that was used to collect simulated data]
 ├── data/
-│   └── [Simulated subset of data used for training and testing the CNN model]
+│   └── [Simulated subset of dataset used for training and testing the CNN model]
 ├── papers/
 │   └── [Reference papers for the research]
 ├── reports/

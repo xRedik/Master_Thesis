@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
 - [Repository Structure](#repository-structure)
-- [Code](##code)
+- [Code](#code)
 - [Dataset](##dataset)
 - [Papers](##papers)
 - [Reports](##reports)

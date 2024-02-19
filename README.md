@@ -6,7 +6,7 @@
 - [Repository Structure](#repository-structure)
 - [Code](#code)
 - [Dataset](#dataset)
-- [Papers](##papers)
+- [Papers](#papers)
 - [Reports](##reports)
 
 ## Introduction

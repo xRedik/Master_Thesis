@@ -27,7 +27,7 @@ This repository serves as a comprehensive resource for the research conducted, p
 ├── reports/
 │   └── [Reports that was generated for the project]
 ```
-### Code
+## Code
 
 The `code` folder contains the implementation of the models. It consists of 2 folder. The model folder consists of the model that was used to create and train the model. The dataset script generator consists of the script that was usec to generate input images, and corresping positions for the input image (target).
 

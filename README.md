@@ -35,7 +35,7 @@ The `code` folder contains the implementation of the models. It consists of 2 fo
 
 The `dataset` folder contains the subset of dataset used for training and testing the CNN model. It includes labeled star images and corresponding attitude information. The data files are organized and formatted appropriately for the CNN training process.
 
-### Papers
+## Papers
 
 The `papers` folder contains a collection of reference papers that have been researched and consulted throughout the course of the study. These papers contribute to the theoretical background, related work, and state-of-the-art techniques in the field of star tracking, attitude determination, and navigation for spacecraft systems.
 

@@ -31,7 +31,7 @@ This repository serves as a comprehensive resource for the research conducted, p
 
 The `code` folder contains the implementation of the models. It consists of 2 folder. The model folder consists of the model that was used to create and train the model. The dataset script generator consists of the script that was usec to generate input images, and corresping positions for the input image (target).
 
-### Dataset
+## Dataset
 
 The `dataset` folder contains the subset of dataset used for training and testing the CNN model. It includes labeled star images and corresponding attitude information. The data files are organized and formatted appropriately for the CNN training process.
 
